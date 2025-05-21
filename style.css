@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(38, 207, 245, 1);
+}
+
+.center-layout {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.center-layout video {
+    width: 80%;
+    max-width: 640px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #ccc; /* optional border */
+}
+
+.center-layout figcaption {
+    margin-top: 1rem;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+main {
+    max-width: 1057px;
+    margin: 0 auto;
+    padding: 1rem;
+}
